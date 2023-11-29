@@ -24,4 +24,4 @@ To use this dog breed detection system:
 ## Authors and Acknowledgment
 - Noah Mitchem - Code implementation
 ## 
-![](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmVhYXhhbnNqOGRlNnBvcmo1encyNmJjeHJ4NG54bDQ4eTRsczlvaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BX3dvmYAGWNApdCSug/giphy.gif)
+![](http://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmVhYXhhbnNqOGRlNnBvcmo1encyNmJjeHJ4NG54bDQ4eTRsczlvaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BX3dvmYAGWNApdCSug/giphy.gif)
