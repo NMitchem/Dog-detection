@@ -1,7 +1,6 @@
 import torch
 from multiprocessing.spawn import freeze_support
 from transformers import ViTFeatureExtractor, ViTForImageClassification, ViTImageProcessor
-import matplotlib.pyplot as plt
 import numpy as np
 from PIL import Image, UnidentifiedImageError
 from torchmetrics import Accuracy
