@@ -41,4 +41,4 @@ def prediction(img_path):
       im.show()
       return label
 
-print(prediction(sys.argv[1])[4:])
+print(prediction(sys.argv[1]))
